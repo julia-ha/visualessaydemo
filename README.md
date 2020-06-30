@@ -9,6 +9,8 @@ Pines are long lived and typically reach ages of 100–1,000 years, some even mo
 
 The spiral growth of branches, needles, and cone scales may be arranged in Fibonacci number ratios.[7][8] The new spring shoots are sometimes called "candles"; they are covered in brown or whitish bud scales and point upward at first, then later turn green and spread outward. These "candles" offer foresters a means to evaluate fertility of the soil and vigour of the trees.
 
+<param ve-map>
+
 Bark
 The bark of most pines is thick and scaly, but some species have thin, flaky bark.[9] The branches are produced in regular "pseudo whorls", actually a very tight spiral but appearing like a ring of branches arising from the same point. Many pines are uninodal, producing just one such whorl of branches each year, from buds at the tip of the year's new shoot, but others are multinodal, producing two or more whorls of branches per year.
 
