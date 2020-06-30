@@ -24,6 +24,7 @@ Pine trees are evergreen, coniferous resinous trees (or, rarely, shrubs) growing
 <param ve-starter>
 
 Pines are long lived and typically reach ages of 100–1,000 years, some even more. The longest-lived is the Great Basin bristlecone pine, Pinus longaeva. One individual of this species, dubbed "Methuselah", is one of the world's oldest living organisms at around 4,600 years old. This tree can be found in the White Mountains of California.[6] An older tree, now cut down, was dated at 4,900 years old. It was discovered in a grove beneath Wheeler Peak and it is now known as "Prometheus" after the Greek immortal.[citation needed]
+<param ve-starter>
 
 The spiral growth of branches, needles, and cone scales may be arranged in Fibonacci number ratios.[7][8] The new spring shoots are sometimes called "candles"; they are covered in brown or whitish bud scales and point upward at first, then later turn green and spread outward. These "candles" offer foresters a means to evaluate fertility of the soil and vigour of the trees.
 
