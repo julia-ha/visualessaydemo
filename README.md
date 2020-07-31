@@ -2,6 +2,13 @@
 <param ve-entity eid="Q59668787" title="pine tree">
 <param ve-entity eid="Q10884" title="tree">
 
+<param ve-entity title="Maria Vittoria of Savoy" eid="Q2399148">
+<param ve-entity title="Victor Amadeus of Savoy, Prince of Carigon" eid="Q2254102">
+<param ve-entity title="Louis XV, King of France" eid="Q7738">
+<param ve-entity title="Anna Maria Luisa de' Medici" eid="Q233181">
+<param ve-entity title="Cardinal Fluery" eid="Q439144">
+<param ve-entity title="Louis Henri, Duke of Bourbon" eid="Q455392">
+
 <param ve-component
        name="heliconia-network"
        src="/components/networkview.vue"
@@ -27,6 +34,7 @@ Pines are long lived and typically reach ages of 100–1,000 years, some even mo
 <param ve-starter color="green">
 
 The spiral growth of branches, needles, and cone scales may be arranged in Fibonacci number ratios.[7][8] The new spring shoots are sometimes called "candles"; they are covered in brown or whitish bud scales and point upward at first, then later turn green and spread outward. These "candles" offer foresters a means to evaluate fertility of the soil and vigour of the trees.
+<param ve-visNetwork layout="network" file="medici.tsv" arrows="to, from">
 
 <param ve-map>
 
