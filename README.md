@@ -29,12 +29,13 @@
 Pine trees are evergreen, coniferous resinous trees (or, rarely, shrubs) growing 3–80 m (10–260 ft) tall, with the majority of species reaching 15–45 m (50–150 ft) tall.[4] The smallest are Siberian dwarf pine and Potosi pinyon, and the tallest is an 81.79 m (268.35 ft) tall ponderosa pine located in southern Oregon's Rogue River-Siskiyou National Forest.[5]
 <param ve-network>
 <param ve-starter name="Julia" >
+<param ve-visNetwork layout="network" file="medici.tsv" arrows="to, from">
 
 Pines are long lived and typically reach ages of 100–1,000 years, some even more. The longest-lived is the Great Basin bristlecone pine, Pinus longaeva. One individual of this species, dubbed "Methuselah", is one of the world's oldest living organisms at around 4,600 years old. This tree can be found in the White Mountains of California.[6] An older tree, now cut down, was dated at 4,900 years old. It was discovered in a grove beneath Wheeler Peak and it is now known as "Prometheus" after the Greek immortal.[citation needed]
 <param ve-starter color="green">
 
 The spiral growth of branches, needles, and cone scales may be arranged in Fibonacci number ratios.[7][8] The new spring shoots are sometimes called "candles"; they are covered in brown or whitish bud scales and point upward at first, then later turn green and spread outward. These "candles" offer foresters a means to evaluate fertility of the soil and vigour of the trees.
-<param ve-visNetwork layout="network" file="medici.tsv" arrows="to, from">
+
 
 <param ve-map>
 
